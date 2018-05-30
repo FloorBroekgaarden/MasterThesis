@@ -1,0 +1,155 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {british}
+\defcounter {refsection}{0}\relax 
+\vspace {-\cftbeforepartskip }
+\defcounter {refsection}{0}\relax 
+\select@language {british}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\numberline {i}\spacedlowsmallcaps {Research}}{1}{part.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {Introduction}}{3}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Low Mass X-ray Binaries}{3}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.1}Black Holes \& Neutron Stars}{4}{subsection.1.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.2}Accretion}{5}{subsection.1.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Common Techniques}{6}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}Energy Spectra}{6}{subsection.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}\acl {HI} Diagrams}{6}{subsection.1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.3}\acl {ECC} Diagrams}{7}{subsection.1.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.4}Power Spectra}{8}{subsection.1.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.5}\acl {PCC} Diagrams}{9}{subsection.1.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Motivation}{9}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Outline}{10}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}\spacedlowsmallcaps {Methods}}{15}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}\acl {RXTE}}{15}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Data Reduction}{16}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Timing Analysis}{18}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Spectral Analysis}{21}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Targets}{21}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Robustness of \textsc {Chromos}\xspace }{22}{section.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}\spacedlowsmallcaps {Results}}{27}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Neutron Stars}{27}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Neutron Stars \& Black Holes}{29}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Effects of Neutron Star Properties}{31}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Inclination}{31}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Atoll \& Z Sources}{34}{subsection.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.3}Pulsations \& Spin}{34}{subsection.3.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}\spacedlowsmallcaps {Discussion}}{39}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Neutron Stars}{39}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Hard State}{39}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Hard-Intermediate State}{39}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Soft-Intermediate State}{40}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Soft State}{40}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Spectral States}{40}{subsection.4.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Neutron Stars \& Black Holes}{41}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Effects of Neutron Star Properties}{43}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Inclination \& \acsp {QPO}}{43}{subsection.4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Atoll \& Z Sources}{44}{subsection.4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.3}Pulsations \& Spin}{45}{subsection.4.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Robustness}{46}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}Oddballs}{46}{subsection.4.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Cir X-1}{46}{subsection.4.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{EXO 0748-676}{47}{subsection.4.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2}Selection Criteria}{47}{subsection.4.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.3}Binning}{48}{subsection.4.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.4}Bursts}{49}{subsection.4.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.5}Hue}{49}{subsection.4.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.6}Hardness Ratio}{50}{subsection.4.4.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.7}Dead Time}{51}{subsection.4.4.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}\spacedlowsmallcaps {Conclusion}}{55}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\numberline {ii}\spacedlowsmallcaps {Appendix}}{57}{part.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {a}\spacedlowsmallcaps {A Brief Guide to CHROMOS}}{59}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Download Data}{60}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Locate Files}{60}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Determine Info}{61}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Spacecraft Filters}{61}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{GoodXenon to FITS}{61}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{PCU Filters}{61}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Create Backgrounds}{61}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Find Channels}{61}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Extract LC and SP}{61}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Correct for background (TA)}{62}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Find X-ray Flares (TA)}{62}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Create Power Spectra (TA)}{62}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Create Power Colours (TA)}{62}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Create Responses (SA)}{62}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Calculate HI (SA)}{62}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {b}\spacedlowsmallcaps {Sources}}{65}{appendix.B}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {c}\spacedlowsmallcaps {Power Spectra}}{69}{appendix.C}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {d}\spacedlowsmallcaps {Power Colour-Colour Diagrams}}{79}{appendix.D}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {e}\spacedlowsmallcaps {Hardness-Hue Diagrams}}{83}{appendix.E}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {f}\spacedlowsmallcaps {Hardness-Intensity Diagrams}}{87}{appendix.F}
+\defcounter {refsection}{0}\relax 
+\vspace {\beforebibskip }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\spacedlowsmallcaps {Bibliography}}{91}{dummy.5}

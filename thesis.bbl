@@ -1,0 +1,4145 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{adams2002salmon}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Adams}{A.}%
+     {Douglas}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Harmony}%
+  }
+  \strng{namehash}{AD1}
+  \strng{fullhash}{AD1}
+  \field{labelyear}{2002}
+  \field{sortinit}{A}
+  \field{title}{The Salmon of Doubt: Hitchhiking the Universe One Last Time}
+  \field{year}{2002}
+\endentry
+
+\entry{altamirano}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Altamirano}{A.}%
+     {Diego}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AD2}
+  \strng{fullhash}{AD2}
+  \field{labelyear}{2008}
+  \field{sortinit}{A}
+  \field{title}{Different Manifestations of Accretion onto Compact Objects}
+  \list{institution}{1}{%
+    {University of Amsterdam}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2008}
+\endentry
+
+\entry{arnaud1996astronomical}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Arnaud}{A.}%
+     {KA}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AK1}
+  \strng{fullhash}{AK1}
+  \field{labelyear}{1996}
+  \field{sortinit}{A}
+  \field{booktitle}{ASP Conf. Ser}
+  \field{number}{1}
+  \field{title}{Astronomical data analysis software and systems V}
+  \field{volume}{101}
+  \field{year}{1996}
+\endentry
+
+\entry{belloni1990variability}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Belloni}{B.}%
+     {T}{T}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hasinger}{H.}%
+     {G}{G}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BTHG1}
+  \strng{fullhash}{BTHG1}
+  \field{labelyear}{1990}
+  \field{sortinit}{B}
+  \field{pages}{L33\bibrangedash L36}
+  \field{title}{Variability in the noise properties of Cygnus X-1}
+  \field{volume}{227}
+  \field{journaltitle}{Astronomy and Astrophysics}
+  \field{year}{1990}
+\endentry
+
+\entry{benacquista2012introduction}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Benacquista}{B.}%
+     {Matthew}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer Science \& Business Media}%
+  }
+  \strng{namehash}{BM1}
+  \strng{fullhash}{BM1}
+  \field{labelyear}{2012}
+  \field{sortinit}{B}
+  \field{title}{An introduction to the evolution of single and binary stars}
+  \field{year}{2012}
+\endentry
+
+\entry{bhattacharyya2007timing}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bhattacharyya}{B.}%
+     {Sudip}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{BS1}
+  \strng{fullhash}{BS1}
+  \field{labelyear}{2007}
+  \field{sortinit}{B}
+  \field{number}{1}
+  \field{pages}{198\bibrangedash 202}
+  \field{title}{Timing properties of XB 1254- 690}
+  \field{volume}{377}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{2007}
+\endentry
+
+\entry{bradt1993x}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Bradt}{B.}%
+     {HV}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rothschild}{R.}%
+     {RE}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Swank}{S.}%
+     {JH}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BHRRSJ1}
+  \strng{fullhash}{BHRRSJ1}
+  \field{labelyear}{1993}
+  \field{sortinit}{B}
+  \field{pages}{355\bibrangedash 360}
+  \field{title}{X-ray timing explorer mission}
+  \field{volume}{97}
+  \field{journaltitle}{Astronomy and Astrophysics Supplement Series}
+  \field{year}{1993}
+\endentry
+
+\entry{cackett2009broad}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Cackett}{C.}%
+     {EM}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Altamirano}{A.}%
+     {D}{D}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Patruno}{P.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Miller}{M.}%
+     {JM}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Reynolds}{R.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Linares}{L.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wijnands}{W.}%
+     {R}{R}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{CE+1}
+  \strng{fullhash}{CEADPAMJRMLMWR1}
+  \field{labelyear}{2009}
+  \field{sortinit}{C}
+  \field{number}{1}
+  \field{pages}{L21}
+  \field{title}{Broad Relativistic Iron Emission Line Observed in SAX J1808.
+  4--3658}
+  \field{volume}{694}
+  \field{journaltitle}{The Astrophysical Journal Letters}
+  \field{year}{2009}
+\endentry
+
+\entry{chakrabarti1993smoothed}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Chakrabarti}{C.}%
+     {Sandip~K}{S.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Molteni}{M.}%
+     {Diego}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CSKMD1}
+  \strng{fullhash}{CSKMD1}
+  \field{labelyear}{1993}
+  \field{sortinit}{C}
+  \field{pages}{671}
+  \field{title}{Smoothed particle hydrodynamics confronts theory: formation of
+  standing shocks in accretion disks and winds around black holes}
+  \field{volume}{417}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{1993}
+\endentry
+
+\entry{chakrabarty2003nuclear}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Chakrabarty}{C.}%
+     {Deepto}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Morgan}{M.}%
+     {Edward~H}{E.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Muno}{M.}%
+     {Michael~P}{M.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Galloway}{G.}%
+     {Duncan~K}{D.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wijnands}{W.}%
+     {Rudy}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van der Klis}}{v.}%
+     {Michiel}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Markwardt}{M.}%
+     {Craig~B}{C.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Nature Publishing Group}%
+  }
+  \strng{namehash}{CD+1}
+  \strng{fullhash}{CDMEHMMPGDKWRvMMCB1}
+  \field{labelyear}{2003}
+  \field{sortinit}{C}
+  \field{number}{6944}
+  \field{pages}{42\bibrangedash 44}
+  \field{title}{Nuclear-powered millisecond pulsars and the maximum spin
+  frequency of neutron stars}
+  \field{volume}{424}
+  \field{journaltitle}{Nature}
+  \field{year}{2003}
+\endentry
+
+\entry{crampton1976spectroscopic}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Crampton}{C.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cowley}{C.}%
+     {ANNE~P}{A.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hutchings}{H.}%
+     {JB}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kaat}{K.}%
+     {C}{C}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CD+2}
+  \strng{fullhash}{CDCAPHJKC1}
+  \field{labelyear}{1976}
+  \field{sortinit}{C}
+  \field{pages}{907\bibrangedash 913}
+  \field{title}{Spectroscopic analysis of Scorpius X-1.}
+  \field{volume}{207}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{1976}
+\endentry
+
+\entry{cumming2001magnetic}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Cumming}{C.}%
+     {Andrew}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zweibel}{Z.}%
+     {Ellen}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bildsten}{B.}%
+     {Lars}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{CAZEBL1}
+  \strng{fullhash}{CAZEBL1}
+  \field{labelyear}{2001}
+  \field{sortinit}{C}
+  \field{number}{2}
+  \field{pages}{958}
+  \field{title}{Magnetic screening in accreting neutron stars}
+  \field{volume}{557}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2001}
+\endentry
+
+\entry{weideadtime}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dennis}{D.}%
+     {W}{W}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DW1}
+  \strng{fullhash}{DW1}
+  \field{labelyear}{2006}
+  \field{sortinit}{D}
+  \field{title}{X-ray power density spectra of black hole binaries: a new
+  deadtime model for the RXTE PCA}
+  \list{institution}{1}{%
+    {Massachusetts Institute of Technology}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2006}
+\endentry
+
+\entry{di2009relativistically}{article}{}
+  \true{moreauthor}
+  \name{author}{10}{}{%
+    {{}%
+     {Di~Salvo}{D.~S.}%
+     {TIZIANA}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {D'A{\'\i}}{D.}%
+     {ANTONINO}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Iaria}{I.}%
+     {ROSARIO}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Burderi}{B.}%
+     {L}{L}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dov{\v{c}}iak}{D.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Karas}{K.}%
+     {V}{V}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Matt}{M.}%
+     {Giorgio}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Papitto}{P.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Piraino}{P.}%
+     {S}{S}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Riggio}{R.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{DST+1}
+  \strng{fullhash}{DSTDAIRBLDMKVMGPAPSRA+1}
+  \field{labelyear}{2009}
+  \field{sortinit}{D}
+  \field{number}{4}
+  \field{pages}{2022\bibrangedash 2027}
+  \field{title}{A relativistically smeared spectrum in the neutron star X-ray
+  binary 4U 1705- 44: looking at the inner accretion disc with X-ray
+  spectroscopy}
+  \field{volume}{398}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{2009}
+\endentry
+
+\entry{done2003observing}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Done}{D.}%
+     {Chris}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gierli{\'n}ski}{G.}%
+     {Marek}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{DCGM1}
+  \strng{fullhash}{DCGM1}
+  \field{labelyear}{2003}
+  \field{sortinit}{D}
+  \field{number}{4}
+  \field{pages}{1041\bibrangedash 1055}
+  \field{title}{Observing the effects of the event horizon in black holes}
+  \field{volume}{342}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{2003}
+\endentry
+
+\entry{done2007modelling}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Done}{D.}%
+     {Chris}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gierli{\'n}ski}{G.}%
+     {Marek}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kubota}{K.}%
+     {Aya}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{DCGMKA1}
+  \strng{fullhash}{DCGMKA1}
+  \field{labelyear}{2007}
+  \field{sortinit}{D}
+  \field{number}{1}
+  \field{pages}{1\bibrangedash 66}
+  \field{title}{Modelling the behaviour of accretion flows in X-ray binaries}
+  \field{volume}{15}
+  \field{journaltitle}{The Astronomy and Astrophysics Review}
+  \field{year}{2007}
+\endentry
+
+\entry{frank2002accretion}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Frank}{F.}%
+     {Juhan}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {King}{K.}%
+     {Andrew}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Raine}{R.}%
+     {Derek}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge university press}%
+  }
+  \strng{namehash}{FJKARD1}
+  \strng{fullhash}{FJKARD1}
+  \field{labelyear}{2002}
+  \field{sortinit}{F}
+  \field{title}{Accretion power in astrophysics}
+  \field{year}{2002}
+\endentry
+
+\entry{fridriksson2015common}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Fridriksson}{F.}%
+     {Joel~K}{J.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Homan}{H.}%
+     {Jeroen}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Remillard}{R.}%
+     {Ronald~A}{R.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{FJKHJRRA1}
+  \strng{fullhash}{FJKHJRRA1}
+  \field{labelyear}{2015}
+  \field{sortinit}{F}
+  \field{number}{1}
+  \field{pages}{52}
+  \field{title}{Common Patterns in the Evolution between the Luminous Neutron
+  Star Low-Mass X-ray Binary Subclasses}
+  \field{volume}{809}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2015}
+\endentry
+
+\entry{galeev1979structured}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Galeev}{G.}%
+     {AA}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rosner}{R.}%
+     {Re}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vaiana}{V.}%
+     {GS}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GARRVG1}
+  \strng{fullhash}{GARRVG1}
+  \field{labelyear}{1979}
+  \field{sortinit}{G}
+  \field{pages}{318\bibrangedash 326}
+  \field{title}{Structured coronae of accretion disks}
+  \field{volume}{229}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{1979}
+\endentry
+
+\entry{galloway2002discovery}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Galloway}{G.}%
+     {Duncan~K}{D.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chakrabarty}{C.}%
+     {Deepto}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Morgan}{M.}%
+     {Edward~H}{E.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Remillard}{R.}%
+     {Ronald~A}{R.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{GDK+1}
+  \strng{fullhash}{GDKCDMEHRRA1}
+  \field{labelyear}{2002}
+  \field{sortinit}{G}
+  \field{number}{2}
+  \field{pages}{L137}
+  \field{title}{Discovery of a high-latitude accreting millisecond pulsar in an
+  ultracompact binary}
+  \field{volume}{576}
+  \field{journaltitle}{The Astrophysical Journal Letters}
+  \field{year}{2002}
+\endentry
+
+\entry{galloway2005discovery}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Galloway}{G.}%
+     {Duncan~K}{D.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Markwardt}{M.}%
+     {Craig~B}{C.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Morgan}{M.}%
+     {Edward~H}{E.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chakrabarty}{C.}%
+     {Deepto}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Strohmayer}{S.}%
+     {Tod~E}{T.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{GDK+1}
+  \strng{fullhash}{GDKMCBMEHCDSTE1}
+  \field{labelyear}{2005}
+  \field{sortinit}{G}
+  \field{number}{1}
+  \field{pages}{L45}
+  \field{title}{Discovery of the accretion-powered millisecond X-ray pulsar IGR
+  J00291+ 5934}
+  \field{volume}{622}
+  \field{journaltitle}{The Astrophysical Journal Letters}
+  \field{year}{2005}
+\endentry
+
+\entry{galloway2006intermittent}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Galloway}{G.}%
+     {Duncan~K}{D.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Morgan}{M.}%
+     {Edward~H}{E.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Krauss}{K.}%
+     {Miriam~I}{M.~I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kaaret}{K.}%
+     {Philip}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chakrabarty}{C.}%
+     {Deepto}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{GDK+1}
+  \strng{fullhash}{GDKMEHKMIKPCD1}
+  \field{labelyear}{2006}
+  \field{sortinit}{G}
+  \field{number}{1}
+  \field{pages}{L73}
+  \field{title}{Intermittent pulsations in an accretion-powered millisecond
+  pulsar}
+  \field{volume}{654}
+  \field{journaltitle}{The Astrophysical Journal Letters}
+  \field{year}{2006}
+\endentry
+
+\entry{galloway2008thermonuclear}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Galloway}{G.}%
+     {Duncan~K}{D.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Muno}{M.}%
+     {Michael~P}{M.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hartman}{H.}%
+     {Jacob~M}{J.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Psaltis}{P.}%
+     {Dimitrios}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chakrabarty}{C.}%
+     {Deepto}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{GDK+1}
+  \strng{fullhash}{GDKMMPHJMPDCD1}
+  \field{labelyear}{2008}
+  \field{sortinit}{G}
+  \field{number}{2}
+  \field{pages}{360}
+  \field{title}{Thermonuclear (type i) X-ray bursts observed by the rossi X-ray
+  timing explorer}
+  \field{volume}{179}
+  \field{journaltitle}{The Astrophysical Journal Supplement Series}
+  \field{year}{2008}
+\endentry
+
+\entry{galloway2010discovery}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Galloway}{G.}%
+     {Duncan~K}{D.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lin}{L.}%
+     {Jinrong}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chakrabarty}{C.}%
+     {Deepto}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hartman}{H.}%
+     {Jacob~M}{J.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{GDK+1}
+  \strng{fullhash}{GDKLJCDHJM1}
+  \field{labelyear}{2010}
+  \field{sortinit}{G}
+  \field{number}{2}
+  \field{pages}{L148}
+  \field{title}{Discovery of a 552 Hz Burst Oscillation in the Low-Mass X-Ray
+  Binary EXO 0748--676}
+  \field{volume}{711}
+  \field{journaltitle}{The Astrophysical Journal Letters}
+  \field{year}{2010}
+\endentry
+
+\entry{galloway2016intermittent}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Galloway}{G.}%
+     {Duncan~K}{D.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ajamyan}{A.}%
+     {Alishan~N}{A.~N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Upjohn}{U.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stuart}{S.}%
+     {Matthew}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{GDK+1}
+  \strng{fullhash}{GDKAANUJSM1}
+  \field{labelyear}{2016}
+  \field{sortinit}{G}
+  \field{pages}{stw1576}
+  \field{title}{Intermittent dipping in a low-mass X-ray Binary}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{2016}
+\endentry
+
+\entry{ghosh1978disk}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Ghosh}{G.}%
+     {P}{P}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lamb}{L.}%
+     {FK}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GPLF1}
+  \strng{fullhash}{GPLF1}
+  \field{labelyear}{1978}
+  \field{sortinit}{G}
+  \field{pages}{L83\bibrangedash L87}
+  \field{title}{Disk accretion by magnetic neutron stars}
+  \field{volume}{223}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{1978}
+\endentry
+
+\entry{giacconi1962evidence}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Giacconi}{G.}%
+     {Riccardo}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gursky}{G.}%
+     {Herbert}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Paolini}{P.}%
+     {Frank~R.}{F.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rossi}{R.}%
+     {Bruno~B.}{B.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {American Physical Society}%
+  }
+  \strng{namehash}{GR+1}
+  \strng{fullhash}{GRGHPFRRBB1}
+  \field{labelyear}{1962}
+  \field{sortinit}{G}
+  \field{issue}{11}
+  \field{pages}{439\bibrangedash 443}
+  \field{title}{Evidence for x Rays From Sources Outside the Solar System}
+  \field{volume}{9}
+  \field{journaltitle}{Phys. Rev. Lett.}
+  \field{year}{1962}
+\endentry
+
+\entry{gierlinski2002comment}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Gierlinski}{G.}%
+     {Marek}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Done}{D.}%
+     {Chris}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GMDC1}
+  \strng{fullhash}{GMDC1}
+  \field{labelyear}{2002}
+  \field{sortinit}{G}
+  \field{pages}{L47\bibrangedash L50}
+  \field{title}{A comment on the colour-colour diagrams of low-mass X-ray
+  binaries}
+  \field{volume}{331}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{2002}
+\endentry
+
+\entry{gilfanov2010x}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gilfanov}{G.}%
+     {Marat}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{GM1}
+  \strng{fullhash}{GM1}
+  \field{labelyear}{2010}
+  \field{sortinit}{G}
+  \field{booktitle}{The Jet Paradigm}
+  \field{pages}{17\bibrangedash 51}
+  \field{title}{X-ray emission from black-hole binaries}
+  \field{year}{2010}
+\endentry
+
+\entry{gilfanov2014observational}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Gilfanov}{G.}%
+     {Marat}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Merloni}{M.}%
+     {Andrea}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{GMMA1}
+  \strng{fullhash}{GMMA1}
+  \field{labelyear}{2014}
+  \field{sortinit}{G}
+  \field{number}{1-4}
+  \field{pages}{121\bibrangedash 148}
+  \field{title}{Observational appearance of black holes in X-ray binaries and
+  AGN}
+  \field{volume}{183}
+  \field{journaltitle}{Space Science Reviews}
+  \field{year}{2014}
+\endentry
+
+\entry{gladstone2007analysing}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Gladstone}{G.}%
+     {Jeanette}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Done}{D.}%
+     {Chris}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gierli{\'n}ski}{G.}%
+     {Marek}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{GJDCGM1}
+  \strng{fullhash}{GJDCGM1}
+  \field{labelyear}{2007}
+  \field{sortinit}{G}
+  \field{number}{1}
+  \field{pages}{13\bibrangedash 22}
+  \field{title}{Analysing the atolls: X-ray spectral transitions of accreting
+  neutron stars}
+  \field{volume}{378}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{2007}
+\endentry
+
+\entry{gleissner2004long}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Gleissner}{G.}%
+     {Thomas}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wilms}{W.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pottschmidt}{P.}%
+     {K}{K}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Uttley}{U.}%
+     {P}{P}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nowak}{N.}%
+     {MA}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Staubert}{S.}%
+     {R}{R}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {EDP Sciences}%
+  }
+  \strng{namehash}{GT+1}
+  \strng{fullhash}{GTWJPKUPNMSR1}
+  \field{labelyear}{2004}
+  \field{sortinit}{G}
+  \field{number}{3}
+  \field{pages}{1091\bibrangedash 1104}
+  \field{title}{Long term variability of Cyg X-1-II. The rms-flux relation}
+  \field{volume}{414}
+  \field{journaltitle}{Astronomy \& Astrophysics}
+  \field{year}{2004}
+\endentry
+
+\entry{hasinger1989two}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hasinger}{H.}%
+     {G}{G}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van der Klis}}{v.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HGvM1}
+  \strng{fullhash}{HGvM1}
+  \field{labelyear}{1989}
+  \field{sortinit}{H}
+  \field{pages}{79\bibrangedash 96}
+  \field{title}{Two patterns of correlated X-ray timing and spectral behaviour
+  in low-mass X-ray binaries}
+  \field{volume}{225}
+  \field{journaltitle}{Astronomy and Astrophysics}
+  \field{year}{1989}
+\endentry
+
+\entry{heil2015inclination}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Heil}{H.}%
+     {LM}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Uttley}{U.}%
+     {P}{P}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klein-Wolt}{K.-W.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{HLUPKWM1}
+  \strng{fullhash}{HLUPKWM1}
+  \field{labelyear}{2015}
+  \field{extrayear}{1}
+  \field{sortinit}{H}
+  \field{number}{4}
+  \field{pages}{3348\bibrangedash 3353}
+  \field{title}{Inclination-dependent spectral and timing properties in
+  transient black hole X-ray binaries}
+  \field{volume}{448}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{2015}
+\endentry
+
+\entry{heil2015power}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Heil}{H.}%
+     {LM}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Uttley}{U.}%
+     {P}{P}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klein-Wolt}{K.-W.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{HLUPKWM1}
+  \strng{fullhash}{HLUPKWM1}
+  \field{labelyear}{2015}
+  \field{extrayear}{2}
+  \field{sortinit}{H}
+  \field{number}{4}
+  \field{pages}{3339\bibrangedash 3347}
+  \field{title}{Power colours: simple X-ray binary variability comparison}
+  \field{volume}{448}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{2015}
+\endentry
+
+\entry{heil2012ubiquity}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Heil}{H.}%
+     {LM}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vaughan}{V.}%
+     {S}{S}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Uttley}{U.}%
+     {P}{P}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{HLVSUP1}
+  \strng{fullhash}{HLVSUP1}
+  \field{labelyear}{2012}
+  \field{sortinit}{H}
+  \field{number}{3}
+  \field{pages}{2620\bibrangedash 2631}
+  \field{title}{The ubiquity of the rms--flux relation in black hole X-ray
+  binaries}
+  \field{volume}{422}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{2012}
+\endentry
+
+\entry{homan2012possible}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Homan}{H.}%
+     {Jeroen}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{HJ1}
+  \strng{fullhash}{HJ1}
+  \field{labelyear}{2012}
+  \field{sortinit}{H}
+  \field{number}{2}
+  \field{pages}{L30}
+  \field{title}{A possible signature of Lense-Thirring precession in dipping
+  and eclipsing neutron-star low-mass X-ray binaries}
+  \field{volume}{760}
+  \field{journaltitle}{The Astrophysical Journal Letters}
+  \field{year}{2012}
+\endentry
+
+\entry{homan2015geometric}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Homan}{H.}%
+     {Jeroen}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fridriksson}{F.}%
+     {Joel~K}{J.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Remillard}{R.}%
+     {Ronald~A}{R.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{HJFJKRRA1}
+  \strng{fullhash}{HJFJKRRA1}
+  \field{labelyear}{2015}
+  \field{sortinit}{H}
+  \field{number}{1}
+  \field{pages}{80}
+  \field{title}{On the Geometric Nature of Low-frequency Quasi-periodic
+  Oscillations in Neutron-star Low-mass X-Ray Binaries}
+  \field{volume}{812}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2015}
+\endentry
+
+\entry{homan2001correlated}{article}{}
+  \name{author}{8}{}{%
+    {{}%
+     {Homan}{H.}%
+     {Jeroen}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wijnands}{W.}%
+     {Rudy}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van der Klis}}{v.}%
+     {Michiel}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Belloni}{B.}%
+     {Tomaso}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van Paradijs}}{v.}%
+     {Jan}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klein-Wolt}{K.-W.}%
+     {Marc}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fender}{F.}%
+     {Rob}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mendez}{M.}%
+     {Mariano}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{HJ+1}
+  \strng{fullhash}{HJWRvMBTvJKWMFRMM1}
+  \field{labelyear}{2001}
+  \field{sortinit}{H}
+  \field{number}{2}
+  \field{pages}{377}
+  \field{title}{Correlated X-ray spectral and timing behavior of the black hole
+  candidate XTE J1550--564: a new interpretation of black hole states}
+  \field{volume}{132}
+  \field{journaltitle}{The Astrophysical Journal Supplement Series}
+  \field{year}{2001}
+\endentry
+
+\entry{homan2005high}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Homan}{H.}%
+     {Jeroen}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Miller}{M.}%
+     {Jon~M}{J.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wijnands}{W.}%
+     {Rudy}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van der Klis}}{v.}%
+     {Michiel}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Belloni}{B.}%
+     {Tomaso}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Steeghs}{S.}%
+     {Danny}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lewin}{L.}%
+     {Walter~HG}{W.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{HJ+1}
+  \strng{fullhash}{HJMJMWRvMBTSDLWH1}
+  \field{labelyear}{2005}
+  \field{sortinit}{H}
+  \field{number}{1}
+  \field{pages}{383}
+  \field{title}{High-and Low-Frequency Quasi-periodic Oscillations in the X-Ray
+  Light Curves of the Black Hole Transient H1743--322}
+  \field{volume}{623}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2005}
+\endentry
+
+\entry{homan2007rossi}{article}{}
+  \true{moreauthor}
+  \name{author}{10}{}{%
+    {{}%
+     {Homan}{H.}%
+     {Jeroen}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klis}{K.}%
+     {Michiel}{M.}%
+     {van~der}{v.~d.}%
+     {}{}}%
+    {{}%
+     {Wijnands}{W.}%
+     {Rudy}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Belloni}{B.}%
+     {Tomaso}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fender}{F.}%
+     {Rob}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klein-Wolt}{K.-W.}%
+     {Marc}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Casella}{C.}%
+     {Piergiorgio}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {M{\'e}ndez}{M.}%
+     {Mariano}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gallo}{G.}%
+     {Elena}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lewin}{L.}%
+     {Walter~HG}{W.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{HJ+1}
+  \strng{fullhash}{HJKMvdWRBTFRKWMCPMMGELWH+1}
+  \field{labelyear}{2007}
+  \field{sortinit}{H}
+  \field{number}{1}
+  \field{pages}{420}
+  \field{title}{Rossi X-Ray Timing Explorer Observations of the First Transient
+  Z Source XTE J1701--462: Shedding New Light on Mass Accretion in Luminous
+  Neutron Star X-Ray Binaries}
+  \field{volume}{656}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2007}
+\endentry
+
+\entry{iaria2008chandra}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Iaria}{I.}%
+     {R}{R}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {D’A{\'\i}}{D.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lavagetto}{L.}%
+     {G}{G}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Di~Salvo}{D.~S.}%
+     {T}{T}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Robba}{R.}%
+     {NR}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Burderi}{B.}%
+     {L}{L}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{IR+1}
+  \strng{fullhash}{IRDALGDSTRNBL1}
+  \field{labelyear}{2008}
+  \field{sortinit}{I}
+  \field{number}{2}
+  \field{pages}{1033}
+  \field{title}{Chandra Observation of Cir X-1 near the Periastron Passage:
+  Evidence for an X-Ray Jet?}
+  \field{volume}{673}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2008}
+\endentry
+
+\entry{jahoda1996orbit}{inproceedings}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Jahoda}{J.}%
+     {Keith}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Swank}{S.}%
+     {Jean~H}{J.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Giles}{G.}%
+     {Alan~B}{A.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stark}{S.}%
+     {Michael~J}{M.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Strohmayer}{S.}%
+     {Tod}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhang}{Z.}%
+     {William~W}{W.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Morgan}{M.}%
+     {Edward~H}{E.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{2}{%
+    {International Society for Optics}%
+    {Photonics}%
+  }
+  \strng{namehash}{JK+1}
+  \strng{fullhash}{JKSJHGABSMJSTZWWMEH1}
+  \field{labelyear}{1996}
+  \field{sortinit}{J}
+  \field{booktitle}{SPIE's 1996 International Symposium on Optical Science,
+  Engineering, and Instrumentation}
+  \field{pages}{59\bibrangedash 70}
+  \field{title}{In-orbit performance and calibration of the Rossi X-ray Timing
+  Explorer (RXTE) Proportional Counter Array (PCA)}
+  \field{year}{1996}
+\endentry
+
+\entry{jahoda2006calibration}{article}{}
+  \name{author}{8}{}{%
+    {{}%
+     {Jahoda}{J.}%
+     {Keith}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Markwardt}{M.}%
+     {Craig~B}{C.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Radeva}{R.}%
+     {Yana}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rots}{R.}%
+     {Arnold~H}{A.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stark}{S.}%
+     {Michael~J}{M.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Swank}{S.}%
+     {Jean~H}{J.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Strohmayer}{S.}%
+     {Tod~E}{T.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhang}{Z.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{JK+1}
+  \strng{fullhash}{JKMCBRYRAHSMJSJHSTEZW1}
+  \field{labelyear}{2006}
+  \field{sortinit}{J}
+  \field{number}{2}
+  \field{pages}{401}
+  \field{title}{Calibration of the Rossi X-ray timing explorer proportional
+  counter array}
+  \field{volume}{163}
+  \field{journaltitle}{The Astrophysical Journal Supplement Series}
+  \field{year}{2006}
+\endentry
+
+\entry{klein2008identification}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Klein-Wolt}{K.-W.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van der Klis}}{v.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{KWMvM1}
+  \strng{fullhash}{KWMvM1}
+  \field{labelyear}{2008}
+  \field{sortinit}{K}
+  \field{number}{2}
+  \field{pages}{1407}
+  \field{title}{Identification of black hole power spectral components across
+  all canonical states}
+  \field{volume}{675}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2008}
+\endentry
+
+\entry{kleinwolt}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Klein-Wolt}{K.-W.}%
+     {Marc}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KWM1}
+  \strng{fullhash}{KWM1}
+  \field{labelyear}{2004}
+  \field{sortinit}{K}
+  \field{title}{Black Hole X-ray Binaries}
+  \list{institution}{1}{%
+    {University of Amsterdam}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2004}
+\endentry
+
+\entry{krimm2007discovery}{article}{}
+  \true{moreauthor}
+  \name{author}{10}{}{%
+    {{}%
+     {Krimm}{K.}%
+     {HA}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Markwardt}{M.}%
+     {Craig~B}{C.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Deloye}{D.}%
+     {CJ}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Romano}{R.}%
+     {P}{P}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chakrabarty}{C.}%
+     {Deepto}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Campana}{C.}%
+     {S}{S}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cummings}{C.}%
+     {JR}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Galloway}{G.}%
+     {DK}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gehrels}{G.}%
+     {N}{N}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hartman}{H.}%
+     {JM}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{KH+1}
+  \strng{fullhash}{KHMCBDCRPCDCSCJGDGNHJ+1}
+  \field{labelyear}{2007}
+  \field{sortinit}{K}
+  \field{number}{2}
+  \field{pages}{L147}
+  \field{title}{Discovery of the Accretion-powered Millisecond Pulsar SWIFT
+  J1756. 9--2508 with a Low-Mass Companion}
+  \field{volume}{668}
+  \field{journaltitle}{The Astrophysical Journal Letters}
+  \field{year}{2007}
+\endentry
+
+\entry{kuulkers1995detection}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kuulkers}{K.}%
+     {E}{E}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van der Klis}}{v.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KEvM1}
+  \strng{fullhash}{KEvM1}
+  \field{labelyear}{1995}
+  \field{sortinit}{K}
+  \field{pages}{801}
+  \field{title}{Detection of 26Hz quasi-periodic oscillations in the flaring
+  branch of CygnusX-2.}
+  \field{volume}{303}
+  \field{journaltitle}{Astronomy and Astrophysics}
+  \field{year}{1995}
+\endentry
+
+\entry{kuulkers1994spectral}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Kuulkers}{K.}%
+     {E}{E}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van der Klis}}{v.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Oosterbroek}{O.}%
+     {T}{T}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Asai}{A.}%
+     {K}{K}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dotani}{D.}%
+     {T}{T}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van Paradijs}}{v.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lewin}{L.}%
+     {WHG}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KE+1}
+  \strng{fullhash}{KEvMOTAKDTvJLW1}
+  \field{labelyear}{1994}
+  \field{sortinit}{K}
+  \field{pages}{795\bibrangedash 821}
+  \field{title}{Spectral and correlated timing behaviour of GX 5-1}
+  \field{volume}{289}
+  \field{journaltitle}{Astronomy and Astrophysics}
+  \field{year}{1994}
+\endentry
+
+\entry{kuulkers1997gx}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Kuulkers}{K.}%
+     {E}{E}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kuulkers}{K.}%
+     {E}{E}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van der Klis}}{v.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Oosterbroek}{O.}%
+     {T}{T}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van Paradijs}}{v.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lewin}{L.}%
+     {WHG}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{KE+1}
+  \strng{fullhash}{KEKEvMOTvJLW1}
+  \field{labelyear}{1997}
+  \field{sortinit}{K}
+  \field{number}{3}
+  \field{pages}{495\bibrangedash 514}
+  \field{title}{GX 17+ 2: X-ray spectral and timing behaviour of a bursting Z
+  source}
+  \field{volume}{287}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{1997}
+\endentry
+
+\entry{lamb1973model}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Lamb}{L.}%
+     {FK}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pethick}{P.}%
+     {CJ}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pines}{P.}%
+     {D}{D}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LFPCPD1}
+  \strng{fullhash}{LFPCPD1}
+  \field{labelyear}{1973}
+  \field{sortinit}{L}
+  \field{pages}{271\bibrangedash 290}
+  \field{title}{A Model for Compact X-Ray Sources: Accretion by Rotating
+  Magnetic Stars}
+  \field{volume}{184}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{1973}
+\endentry
+
+\entry{legg2012direct}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Legg}{L.}%
+     {E}{E}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Miller}{M.}%
+     {L}{L}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Turner}{T.}%
+     {TJ}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Giustini}{G.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Reeves}{R.}%
+     {JN}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kraemer}{K.}%
+     {SB}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{LE+1}
+  \strng{fullhash}{LEMLTTGMRJKS1}
+  \field{labelyear}{2012}
+  \field{sortinit}{L}
+  \field{number}{1}
+  \field{pages}{73}
+  \field{title}{Direct measurement of the X-ray time-delay transfer function in
+  active galactic nuclei}
+  \field{volume}{760}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2012}
+\endentry
+
+\entry{lin2007evaluating}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Lin}{L.}%
+     {Dacheng}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Remillard}{R.}%
+     {Ronald~A}{R.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Homan}{H.}%
+     {Jeroen}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{LDRRAHJ1}
+  \strng{fullhash}{LDRRAHJ1}
+  \field{labelyear}{2007}
+  \field{sortinit}{L}
+  \field{number}{2}
+  \field{pages}{1073}
+  \field{title}{Evaluating spectral models and the X-ray states of neutron star
+  X-ray transients}
+  \field{volume}{667}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2007}
+\endentry
+
+\entry{lin2009spectral}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Lin}{L.}%
+     {Dacheng}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Remillard}{R.}%
+     {Ronald~A}{R.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Homan}{H.}%
+     {Jeroen}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{LDRRAHJ1}
+  \strng{fullhash}{LDRRAHJ1}
+  \field{labelyear}{2009}
+  \field{sortinit}{L}
+  \field{number}{2}
+  \field{pages}{1257}
+  \field{title}{Spectral States of XTE J1701--462: Link Between Z and Atoll
+  Sources}
+  \field{volume}{696}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2009}
+\endentry
+
+\entry{liu2001catalogue}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Liu}{L.}%
+     {QZ}{Q.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van Paradijs}}{v.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van den Heuvel}}{v.}%
+     {EPJ}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {EDP Sciences}%
+  }
+  \strng{namehash}{LQvJvE1}
+  \strng{fullhash}{LQvJvE1}
+  \field{labelyear}{2001}
+  \field{sortinit}{L}
+  \field{number}{3}
+  \field{pages}{1021\bibrangedash 1054}
+  \field{title}{A catalogue of low-mass X-ray binaries}
+  \field{volume}{368}
+  \field{journaltitle}{Astronomy \& Astrophysics}
+  \field{year}{2001}
+\endentry
+
+\entry{lyubarskii1997flicker}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lyubarskii}{L.}%
+     {Yu~E}{Y.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{LYE1}
+  \strng{fullhash}{LYE1}
+  \field{labelyear}{1997}
+  \field{sortinit}{L}
+  \field{number}{3}
+  \field{pages}{679\bibrangedash 685}
+  \field{title}{Flicker noise in accretion discs}
+  \field{volume}{292}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{1997}
+\endentry
+
+\entry{maccarone2000time}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Maccarone}{M.}%
+     {Thomas~J}{T.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Coppi}{C.}%
+     {Paolo~S}{P.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Poutanen}{P.}%
+     {Juri}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{MTJCPSPJ1}
+  \strng{fullhash}{MTJCPSPJ1}
+  \field{labelyear}{2000}
+  \field{sortinit}{M}
+  \field{number}{2}
+  \field{pages}{L107}
+  \field{title}{Time domain analysis of variability in Cygnus X-1: constraints
+  on the emission models}
+  \field{volume}{537}
+  \field{journaltitle}{The Astrophysical Journal Letters}
+  \field{year}{2000}
+\endentry
+
+\entry{markoff2005going}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Markoff}{M.}%
+     {Sera}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nowak}{N.}%
+     {Michael~A}{M.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wilms}{W.}%
+     {J{\"o}rn}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{MSNMAWJ1}
+  \strng{fullhash}{MSNMAWJ1}
+  \field{labelyear}{2005}
+  \field{sortinit}{M}
+  \field{number}{2}
+  \field{pages}{1203}
+  \field{title}{Going with the flow: can the base of jets subsume the role of
+  compact accretion disk coronae?}
+  \field{volume}{635}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2005}
+\endentry
+
+\entry{markwardt2003discovery}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Markwardt}{M.}%
+     {CB}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {E}{E}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Swank}{S.}%
+     {JH}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MCSESJ1}
+  \strng{fullhash}{MCSESJ1}
+  \field{labelyear}{2003}
+  \field{sortinit}{M}
+  \field{title}{Discovery of a Fourth Accreting Millisecond Pulsar, XTE
+  J1807-294}
+  \field{volume}{122}
+  \field{journaltitle}{The Astronomer's Telegram}
+  \field{year}{2003}
+\endentry
+
+\entry{markwardt2003xte}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Markwardt}{M.}%
+     {CB}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Swank}{S.}%
+     {JH}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MCSJ1}
+  \strng{fullhash}{MCSJ1}
+  \field{labelyear}{2003}
+  \field{sortinit}{M}
+  \field{pages}{1}
+  \field{title}{XTE J1814-338}
+  \field{volume}{8144}
+  \field{journaltitle}{International Astronomical Union Circular}
+  \field{year}{2003}
+\endentry
+
+\entry{markwardt2002discovery}{article}{}
+  \true{moreauthor}
+  \name{author}{4}{}{%
+    {{}%
+     {Markwardt}{M.}%
+     {CB}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Swank}{S.}%
+     {JH}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Strohmayer}{S.}%
+     {TE}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Marshall}{M.}%
+     {FE}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{MC+1}
+  \strng{fullhash}{MCSJSTMF+1}
+  \field{labelyear}{2002}
+  \field{sortinit}{M}
+  \field{number}{1}
+  \field{pages}{L21}
+  \field{title}{Discovery of a Second Millisecond Accreting Pulsar: XTE
+  J1751--305}
+  \field{volume}{575}
+  \field{journaltitle}{The Astrophysical Journal Letters}
+  \field{year}{2002}
+\endentry
+
+\entry{mendez1997kilohertz}{article}{}
+  \name{author}{8}{}{%
+    {{}%
+     {M{\'e}ndez}{M.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van der Klis}}{v.}%
+     {Michiel}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van Paradijs}}{v.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lewin}{L.}%
+     {WHG}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lamb}{L.}%
+     {FK}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vaughan}{V.}%
+     {BA}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kuulkers}{K.}%
+     {E}{E}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Psaltis}{P.}%
+     {D}{D}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{MM+1}
+  \strng{fullhash}{MMvMvJLWLFVBKEPD1}
+  \field{labelyear}{1997}
+  \field{sortinit}{M}
+  \field{number}{1}
+  \field{pages}{L37}
+  \field{title}{Kilohertz quasi-periodic oscillation and atoll source states in
+  4U 0614+ 09}
+  \field{volume}{485}
+  \field{journaltitle}{The Astrophysical Journal Letters}
+  \field{year}{1997}
+\endentry
+
+\entry{misner1973gravitation}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Misner}{M.}%
+     {Charles~W}{C.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thorne}{T.}%
+     {Kip~S}{K.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wheeler}{W.}%
+     {John~Archibald}{J.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Macmillan}%
+  }
+  \strng{namehash}{MCWTKSWJA1}
+  \strng{fullhash}{MCWTKSWJA1}
+  \field{labelyear}{1973}
+  \field{sortinit}{M}
+  \field{title}{Gravitation}
+  \field{year}{1973}
+\endentry
+
+\entry{morgan2005hete}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Morgan}{M.}%
+     {Ed}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kaaret}{K.}%
+     {Phil}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vanderspek}{V.}%
+     {Roland}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MEKPVR1}
+  \strng{fullhash}{MEKPVR1}
+  \field{labelyear}{2005}
+  \field{sortinit}{M}
+  \field{title}{HETE J1900. 1-2455 is a millisecond pulsar.}
+  \field{volume}{523}
+  \field{journaltitle}{The Astronomer's Telegram}
+  \field{year}{2005}
+\endentry
+
+\entry{motta2012discovery}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Motta}{M.}%
+     {S}{S}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Homan}{H.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mu{\~n}oz-Darias}{M.-D.}%
+     {T}{T}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Casella}{C.}%
+     {P}{P}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Belloni}{B.}%
+     {TM}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hiemstra}{H.}%
+     {B}{B}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {M{\'e}ndez}{M.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{MS+1}
+  \strng{fullhash}{MSHJMDTCPBTHBMM1}
+  \field{labelyear}{2012}
+  \field{sortinit}{M}
+  \field{number}{1}
+  \field{pages}{595\bibrangedash 606}
+  \field{title}{Discovery of two simultaneous non-harmonically related
+  quasi-periodic oscillations in the 2005 outburst of the black hole binary GRO
+  J1655-40}
+  \field{volume}{427}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{2012}
+\endentry
+
+\entry{motta2015geometrical}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Motta}{M.}%
+     {SE}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Casella}{C.}%
+     {P}{P}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Henze}{H.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mu{\~n}oz-Darias}{M.-D.}%
+     {T}{T}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sanna}{S.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fender}{F.}%
+     {R}{R}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Belloni}{B.}%
+     {T}{T}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{MS+2}
+  \strng{fullhash}{MSCPHMMDTSAFRBT1}
+  \field{labelyear}{2015}
+  \field{sortinit}{M}
+  \field{number}{2}
+  \field{pages}{2059\bibrangedash 2072}
+  \field{title}{Geometrical constraints on the origin of timing signals from
+  black holes}
+  \field{volume}{447}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{2015}
+\endentry
+
+\entry{muno2002z}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Muno}{M.}%
+     {Michael~P}{M.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Remillard}{R.}%
+     {Ronald~A}{R.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chakrabarty}{C.}%
+     {Deepto}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{MMPRRACD1}
+  \strng{fullhash}{MMPRRACD1}
+  \field{labelyear}{2002}
+  \field{sortinit}{M}
+  \field{number}{1}
+  \field{pages}{L35}
+  \field{title}{How do Z and atoll x-ray binaries differ?}
+  \field{volume}{568}
+  \field{journaltitle}{The Astrophysical Journal Letters}
+  \field{year}{2002}
+\endentry
+
+\entry{cygnusx1}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {NASA}{N.}%
+     {{\relax Chandra}}{{\relax Chandra}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NChandra1}
+  \strng{fullhash}{NChandra1}
+  \field{labelyear}{2014}
+  \field{sortinit}{N}
+  \field{note}{Accessed: 11-07-2016}
+  \field{title}{Black Holes (Illustrations)}
+  \verb{url}
+  \verb http://chandra.harvard.edu/resources/illustrations/blackholes.html
+  \endverb
+  \field{year}{2014}
+\endentry
+
+\entry{heasarc}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {NASA}{N.}%
+     {{\relax Goddard Space Flight Center}}{{\relax Goddard Space Flight
+  Center}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NGoddardSpaceFlightCenter1}
+  \strng{fullhash}{NGoddardSpaceFlightCenter1}
+  \field{labelyear}{2015}
+  \field{sortinit}{N}
+  \field{note}{Accessed: 23-06-2016}
+  \field{title}{High Energy Astrophysics Science Archive Research Center}
+  \verb{url}
+  \verb http://heasarc.gsfc.nasa.gov/cgi-bin/W3Browse/w3browse.pl
+  \endverb
+  \field{year}{2015}
+\endentry
+
+\entry{oed}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {OED}{O.}%
+     {{\relax Oxford English Dictionary}}{{\relax Oxford English Dictionary}}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{OOxfordEnglishDictionary1}
+  \strng{fullhash}{OOxfordEnglishDictionary1}
+  \field{labelyear}{1976}
+  \field{sortinit}{O}
+  \field{title}{The Concise Oxford Dictionary of Current English (6th ed)}
+  \list{location}{1}{%
+    {Ely House, London}%
+  }
+  \field{year}{1976}
+\endentry
+
+\entry{oppenheimer1939massive}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Oppenheimer}{O.}%
+     {J~Robert}{J.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Volkoff}{V.}%
+     {George~M}{G.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {APS}%
+  }
+  \strng{namehash}{OJRVGM1}
+  \strng{fullhash}{OJRVGM1}
+  \field{labelyear}{1939}
+  \field{sortinit}{O}
+  \field{number}{4}
+  \field{pages}{374}
+  \field{title}{On massive neutron cores}
+  \field{volume}{55}
+  \field{journaltitle}{Physical Review}
+  \field{year}{1939}
+\endentry
+
+\entry{orosz1999optical}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Orosz}{O.}%
+     {Jerome~A}{J.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kuulkers}{K.}%
+     {Erik}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{OJAKE1}
+  \strng{fullhash}{OJAKE1}
+  \field{labelyear}{1999}
+  \field{sortinit}{O}
+  \field{number}{1}
+  \field{pages}{132\bibrangedash 142}
+  \field{title}{The optical light curves of Cygnus X-2 (V1341 Cyg) and the mass
+  of its neutron star}
+  \field{volume}{305}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{1999}
+\endentry
+
+\entry{pahari2013comparison}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Pahari}{P.}%
+     {Mayukh}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Neilsen}{N.}%
+     {Joseph}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yadav}{Y.}%
+     {JS}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Misra}{M.}%
+     {Ranjeev}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Uttley}{U.}%
+     {Phil}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{PM+1}
+  \strng{fullhash}{PMNJYJMRUP1}
+  \field{labelyear}{2013}
+  \field{sortinit}{P}
+  \field{number}{2}
+  \field{pages}{136}
+  \field{title}{Comparison of time/phase lags in the hard state and plateau
+  state of GRS 1915+ 105}
+  \field{volume}{778}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2013}
+\endentry
+
+\entry{pandel2008relativistic}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Pandel}{P.}%
+     {Dirk}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kaaret}{K.}%
+     {Philip}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Corbel}{C.}%
+     {Stephane}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{PDKPCS1}
+  \strng{fullhash}{PDKPCS1}
+  \field{labelyear}{2008}
+  \field{sortinit}{P}
+  \field{number}{2}
+  \field{pages}{1288}
+  \field{title}{Relativistic iron line emission from the neutron star low-mass
+  X-ray binary 4U 1636-536}
+  \field{volume}{688}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2008}
+\endentry
+
+\entry{papitto2011discovery}{article}{}
+  \name{author}{9}{}{%
+    {{}%
+     {Papitto}{P.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bozzo}{B.}%
+     {E}{E}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ferrigno}{F.}%
+     {C}{C}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Belloni}{B.}%
+     {T}{T}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Burderi}{B.}%
+     {L}{L}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Di~Salvo}{D.~S.}%
+     {T}{T}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Riggio}{R.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {D’A{\`\i}}{D.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Iaria}{I.}%
+     {R}{R}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {EDP Sciences}%
+  }
+  \strng{namehash}{PA+1}
+  \strng{fullhash}{PABEFCBTBLDSTRADAIR1}
+  \field{labelyear}{2011}
+  \field{extrayear}{1}
+  \field{sortinit}{P}
+  \field{pages}{L4}
+  \field{title}{The discovery of the 401 Hz accreting millisecond pulsar IGR
+  J17498-2921 in a 3.8 h orbit}
+  \field{volume}{535}
+  \field{journaltitle}{Astronomy \& Astrophysics}
+  \field{year}{2011}
+\endentry
+
+\entry{papitto2011spin}{article}{}
+  \name{author}{8}{}{%
+    {{}%
+     {Papitto}{P.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {D’A{\`\i}}{D.}%
+     {ANTONINO}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Motta}{M.}%
+     {S}{S}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Riggio}{R.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Burderi}{B.}%
+     {L}{L}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Di~Salvo}{D.~S.}%
+     {T}{T}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Belloni}{B.}%
+     {T}{T}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Iaria}{I.}%
+     {R}{R}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {EDP Sciences}%
+  }
+  \strng{namehash}{PA+1}
+  \strng{fullhash}{PADAMSRABLDSTBTIR1}
+  \field{labelyear}{2011}
+  \field{extrayear}{2}
+  \field{sortinit}{P}
+  \field{pages}{L3}
+  \field{title}{The spin and orbit of the newly discovered pulsar IGR
+  J17480-2446}
+  \field{volume}{526}
+  \field{journaltitle}{Astronomy \& Astrophysics}
+  \field{year}{2011}
+\endentry
+
+\entry{papitto2013accretion}{article}{}
+  \name{author}{9}{}{%
+    {{}%
+     {Papitto}{P.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {D’A{\`\i}}{D.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Di~Salvo}{D.~S.}%
+     {T}{T}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Egron}{E.}%
+     {E}{E}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bozzo}{B.}%
+     {E}{E}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Burderi}{B.}%
+     {L}{L}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Iaria}{I.}%
+     {R}{R}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Riggio}{R.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Menna}{M.}%
+     {MT}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{PA+1}
+  \strng{fullhash}{PADADSTEEBEBLIRRAMM1}
+  \field{labelyear}{2013}
+  \field{sortinit}{P}
+  \field{pages}{sts605}
+  \field{title}{The accretion flow to the intermittent accreting millisecond
+  pulsar, HETE J1900. 1- 2455, as observed by XMM--Newton and RXTE}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{2013}
+\endentry
+
+\entry{parmar1986discovery}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Parmar}{P.}%
+     {AN}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {White}{W.}%
+     {NE}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Giommi}{G.}%
+     {P}{P}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gottwald}{G.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PA+2}
+  \strng{fullhash}{PAWNGPGM1}
+  \field{labelyear}{1986}
+  \field{sortinit}{P}
+  \field{pages}{199\bibrangedash 212}
+  \field{title}{The discovery of 3.8 hour periodic intensity dips and eclipses
+  from the transient low-mass X-ray binary EXO 0748-676}
+  \field{volume}{308}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{1986}
+\endentry
+
+\entry{patruno2012accreting}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Patruno}{P.}%
+     {Alessandro}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Watts}{W.}%
+     {AL}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PAWA1}
+  \strng{fullhash}{PAWA1}
+  \field{labelyear}{2012}
+  \field{sortinit}{P}
+  \field{title}{Accreting millisecond X-ray pulsars}
+  \field{journaltitle}{arXiv preprint 1206.2727}
+  \field{year}{2012}
+\endentry
+
+\entry{payne2006magnetic}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Payne}{P.}%
+     {DJB}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Melatos}{M.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{PDMA1}
+  \strng{fullhash}{PDMA1}
+  \field{labelyear}{2006}
+  \field{sortinit}{P}
+  \field{number}{1}
+  \field{pages}{597}
+  \field{title}{Magnetic burial and the harmonic content of millisecond
+  oscillations in thermonuclear X-ray bursts}
+  \field{volume}{652}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2006}
+\endentry
+
+\entry{peille2015spectral}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Peille}{P.}%
+     {Philippe}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Barret}{B.}%
+     {Didier}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Uttley}{U.}%
+     {Phil}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{PPBDUP1}
+  \strng{fullhash}{PPBDUP1}
+  \field{labelyear}{2015}
+  \field{sortinit}{P}
+  \field{number}{2}
+  \field{pages}{109}
+  \field{title}{The spectral-timing properties of upper and lower kHz QPOs}
+  \field{volume}{811}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2015}
+\endentry
+
+\entry{popham2001accretion}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Popham}{P.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sunyaev}{S.}%
+     {Rashid}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{PRSR1}
+  \strng{fullhash}{PRSR1}
+  \field{labelyear}{2001}
+  \field{sortinit}{P}
+  \field{number}{1}
+  \field{pages}{355}
+  \field{title}{Accretion disk boundary layers around neutron stars: X-ray
+  production in low-mass X-ray binaries}
+  \field{volume}{547}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2001}
+\endentry
+
+\entry{psaltis1995x}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Psaltis}{P.}%
+     {Dimitrios}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lamb}{L.}%
+     {Frederick~K}{F.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Miller}{M.}%
+     {Guy~S}{G.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{PDLFKMGS1}
+  \strng{fullhash}{PDLFKMGS1}
+  \field{labelyear}{1995}
+  \field{sortinit}{P}
+  \field{number}{2}
+  \field{pages}{L137}
+  \field{title}{X-ray spectra of Z sources}
+  \field{volume}{454}
+  \field{journaltitle}{The Astrophysical Journal Letters}
+  \field{year}{1995}
+\endentry
+
+\entry{saa}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {ROSAT}{R.}%
+     {{\relax Guest Observer Facility}}{{\relax Guest Observer Facility}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RGuestObserverFacility1}
+  \strng{fullhash}{RGuestObserverFacility1}
+  \field{labelyear}{2002}
+  \field{sortinit}{R}
+  \field{note}{Accessed: 29-06-2016}
+  \field{title}{South Atlantic Anomaly}
+  \verb{url}
+  \verb http://heasarc.gsfc.nasa.gov/docs/rosat/gallery/misc_saad.html
+  \endverb
+  \field{year}{2002}
+\endentry
+
+\entry{maketime}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {RXTE}{R.}%
+     {{\relax Guest Observer Facility}}{{\relax Guest Observer Facility}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RGuestObserverFacility2}
+  \strng{fullhash}{RGuestObserverFacility2}
+  \field{labelyear}{1998}
+  \field{extrayear}{1}
+  \field{sortinit}{R}
+  \field{note}{Accessed: 29-06-2016}
+  \field{title}{Maketime}
+  \verb{url}
+  \verb https://heasarc.gsfc.nasa.gov/ftools/caldb/help/maketime.txt
+  \endverb
+  \field{year}{1998}
+\endentry
+
+\entry{pcabackest}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {RXTE}{R.}%
+     {{\relax Guest Observer Facility}}{{\relax Guest Observer Facility}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RGuestObserverFacility2}
+  \strng{fullhash}{RGuestObserverFacility2}
+  \field{labelyear}{1998}
+  \field{extrayear}{2}
+  \field{sortinit}{R}
+  \field{note}{Accessed: 30-06-2016}
+  \field{title}{Pcabackest}
+  \verb{url}
+  \verb https://heasarc.gsfc.nasa.gov/ftools/caldb/help/pcabackest.txt
+  \endverb
+  \field{year}{1998}
+\endentry
+
+\entry{pcarsp}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {RXTE}{R.}%
+     {{\relax Guest Observer Facility}}{{\relax Guest Observer Facility}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RGuestObserverFacility2}
+  \strng{fullhash}{RGuestObserverFacility2}
+  \field{labelyear}{1998}
+  \field{extrayear}{3}
+  \field{sortinit}{R}
+  \field{note}{Accessed: 03-07-2016}
+  \field{title}{Pcarsp}
+  \verb{url}
+  \verb https://heasarc.gsfc.nasa.gov/ftools/caldb/help/pcarsp.txt
+  \endverb
+  \field{year}{1998}
+\endentry
+
+\entry{saextrct}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {RXTE}{R.}%
+     {{\relax Guest Observer Facility}}{{\relax Guest Observer Facility}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RGuestObserverFacility2}
+  \strng{fullhash}{RGuestObserverFacility2}
+  \field{labelyear}{1998}
+  \field{extrayear}{4}
+  \field{sortinit}{R}
+  \field{note}{Accessed: 01-07-2016}
+  \field{title}{Saextrct}
+  \verb{url}
+  \verb https://heasarc.gsfc.nasa.gov/ftools/caldb/help/saextrct.txt
+  \endverb
+  \field{year}{1998}
+\endentry
+
+\entry{seextrct}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {RXTE}{R.}%
+     {{\relax Guest Observer Facility}}{{\relax Guest Observer Facility}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RGuestObserverFacility2}
+  \strng{fullhash}{RGuestObserverFacility2}
+  \field{labelyear}{1998}
+  \field{extrayear}{5}
+  \field{sortinit}{R}
+  \field{note}{Accessed: 01-07-2016}
+  \field{title}{Seextrct}
+  \verb{url}
+  \verb https://heasarc.gsfc.nasa.gov/ftools/caldb/help/seextrct.txt
+  \endverb
+  \field{year}{1998}
+\endentry
+
+\entry{rxtepcaissues}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {RXTE}{R.}%
+     {{\relax Guest Observer Facility}}{{\relax Guest Observer Facility}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RGuestObserverFacility2}
+  \strng{fullhash}{RGuestObserverFacility2}
+  \field{labelyear}{1999}
+  \field{sortinit}{R}
+  \field{note}{Accessed: 23-06-2016}
+  \field{title}{PCA Issues}
+  \verb{url}
+  \verb https://heasarc.gsfc.nasa.gov/docs/xte/abc/pca_issues.html
+  \endverb
+  \field{year}{1999}
+\endentry
+
+\entry{rxtearchive}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {RXTE}{R.}%
+     {{\relax Guest Observer Facility}}{{\relax Guest Observer Facility}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RGuestObserverFacility2}
+  \strng{fullhash}{RGuestObserverFacility2}
+  \field{labelyear}{2000}
+  \field{sortinit}{R}
+  \field{note}{Accessed: 28-06-2016}
+  \field{title}{Archive}
+  \verb{url}
+  \verb https://heasarc.gsfc.nasa.gov/docs/xte/recipes/archive.html
+  \endverb
+  \field{year}{2000}
+\endentry
+
+\entry{pcainfo}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {RXTE}{R.}%
+     {{\relax Guest Observer Facility}}{{\relax Guest Observer Facility}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RGuestObserverFacility2}
+  \strng{fullhash}{RGuestObserverFacility2}
+  \field{labelyear}{2006}
+  \field{extrayear}{1}
+  \field{sortinit}{R}
+  \field{note}{Accessed: 13-07-2016}
+  \field{title}{Proportional Counter Array (PCA)}
+  \verb{url}
+  \verb https://heasarc.gsfc.nasa.gov/docs/xte/PCA.html
+  \endverb
+  \field{year}{2006}
+\endentry
+
+\entry{rxtecookbookbinned}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {RXTE}{R.}%
+     {{\relax Guest Observer Facility}}{{\relax Guest Observer Facility}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RGuestObserverFacility2}
+  \strng{fullhash}{RGuestObserverFacility2}
+  \field{labelyear}{2006}
+  \field{extrayear}{2}
+  \field{sortinit}{R}
+  \field{note}{Accessed: 29-06-2016}
+  \field{title}{Reduction and Analysis of PCA Binned-Mode Data}
+  \verb{url}
+  \verb https://heasarc.gsfc.nasa.gov/docs/xte/recipes/pca_spectra.html
+  \endverb
+  \field{year}{2006}
+\endentry
+
+\entry{rxtecookbookdeadtime}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {RXTE}{R.}%
+     {{\relax Guest Observer Facility}}{{\relax Guest Observer Facility}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RGuestObserverFacility2}
+  \strng{fullhash}{RGuestObserverFacility2}
+  \field{labelyear}{2012}
+  \field{extrayear}{1}
+  \field{sortinit}{R}
+  \field{note}{Accessed: 20-05-2016}
+  \field{title}{Correcting for PCA Deadtime}
+  \verb{url}
+  \verb https://heasarc.gsfc.nasa.gov/docs/xte/recipes/pca_deadtime.html
+  \endverb
+  \field{year}{2012}
+\endentry
+
+\entry{rxteenergychannel}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {RXTE}{R.}%
+     {{\relax Guest Observer Facility}}{{\relax Guest Observer Facility}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RGuestObserverFacility2}
+  \strng{fullhash}{RGuestObserverFacility2}
+  \field{labelyear}{2012}
+  \field{extrayear}{2}
+  \field{sortinit}{R}
+  \field{note}{Accessed: 09-06-2016}
+  \field{title}{Energy-Channel Conversion Table}
+  \verb{url}
+  \verb https://heasarc.gsfc.nasa.gov/docs/xte/e-c_table.html
+  \endverb
+  \field{year}{2012}
+\endentry
+
+\entry{pcadigest}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {RXTE}{R.}%
+     {{\relax Guest Observer Facility}}{{\relax Guest Observer Facility}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RGuestObserverFacility2}
+  \strng{fullhash}{RGuestObserverFacility2}
+  \field{labelyear}{2012}
+  \field{extrayear}{3}
+  \field{sortinit}{R}
+  \field{note}{Accessed: 30-06-2016}
+  \field{title}{PCA Digest: Recent Developments}
+  \verb{url}
+  \verb http://heasarc.gsfc.nasa.gov/docs/xte/pca_news.html
+  \endverb
+  \field{year}{2012}
+\endentry
+
+\entry{rxtecookbookevent}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {RXTE}{R.}%
+     {{\relax Guest Observer Facility}}{{\relax Guest Observer Facility}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RGuestObserverFacility2}
+  \strng{fullhash}{RGuestObserverFacility2}
+  \field{labelyear}{2012}
+  \field{extrayear}{4}
+  \field{sortinit}{R}
+  \field{note}{Accessed: 29-06-2016}
+  \field{title}{Reduction and Analysis of PCA Event-Mode Data}
+  \verb{url}
+  \verb https://heasarc.gsfc.nasa.gov/docs/xte/recipes/pca_event_spectra.html
+  \endverb
+  \field{year}{2012}
+\endentry
+
+\entry{rxtestdproducts}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {RXTE}{R.}%
+     {{\relax Guest Observer Facility}}{{\relax Guest Observer Facility}}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RGuestObserverFacility2}
+  \strng{fullhash}{RGuestObserverFacility2}
+  \field{labelyear}{2013}
+  \field{sortinit}{R}
+  \field{note}{Accessed: 29-06-2016}
+  \field{title}{Standard Data Products}
+  \verb{url}
+  \verb https://heasarc.gsfc.nasa.gov/docs/xte/recipes/stdprod_guide.html
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{rhoades1974maximum}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Rhoades~Jr}{R.~J.}%
+     {Clifford~E}{C.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ruffini}{R.}%
+     {Remo}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {APS}%
+  }
+  \strng{namehash}{RJCERR1}
+  \strng{fullhash}{RJCERR1}
+  \field{labelyear}{1974}
+  \field{sortinit}{R}
+  \field{number}{6}
+  \field{pages}{324}
+  \field{title}{Maximum mass of a neutron star}
+  \field{volume}{32}
+  \field{journaltitle}{Physical Review Letters}
+  \field{year}{1974}
+\endentry
+
+\entry{rothschild1998flight}{article}{}
+  \name{author}{9}{}{%
+    {{}%
+     {Rothschild}{R.}%
+     {RE}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Blanco}{B.}%
+     {PR}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gruber}{G.}%
+     {DE}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Heindl}{H.}%
+     {WA}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {MacDonald}{M.}%
+     {DR}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Marsden}{M.}%
+     {DC}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pelling}{P.}%
+     {MR}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wayne}{W.}%
+     {LR}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hink}{H.}%
+     {PL}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{RR+1}
+  \strng{fullhash}{RRBPGDHWMDMDPMWLHP1}
+  \field{labelyear}{1998}
+  \field{sortinit}{R}
+  \field{number}{1}
+  \field{pages}{538}
+  \field{title}{In-flight performance of the high energy X-ray timing
+  experiment on the Rossi X-ray Timing Explorer}
+  \field{volume}{496}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{1998}
+\endentry
+
+\entry{SIMBAD}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {SIMBAD}{S.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{S1}
+  \strng{fullhash}{S1}
+  \field{labelyear}{2016}
+  \field{sortinit}{S}
+  \field{note}{Accessed: 01-06-2016}
+  \field{title}{SIMBAD Astronomical Database}
+  \verb{url}
+  \verb http://simbad.u-strasbg.fr/simbad/
+  \endverb
+  \field{year}{2016}
+\endentry
+
+\entry{schulz2010dynamical}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Schulz}{S.}%
+     {Norbert~S}{N.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nowak}{N.}%
+     {MA}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chakrabarty}{C.}%
+     {Deepto}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Canizares}{C.}%
+     {Claude~R}{C.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{SNS+1}
+  \strng{fullhash}{SNSNMCDCCR1}
+  \field{labelyear}{2010}
+  \field{sortinit}{S}
+  \field{number}{2}
+  \field{pages}{2417}
+  \field{title}{Dynamical K Edge and Line Variations in the X-ray Spectrum of
+  the Ultra-compact Binary 4U 0614+ 091}
+  \field{volume}{725}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2010}
+\endentry
+
+\entry{schwarzschild1916gravitationsfeld}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schwarzschild}{S.}%
+     {Karl}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SK1}
+  \strng{fullhash}{SK1}
+  \field{labelyear}{1916}
+  \field{sortinit}{S}
+  \field{pages}{189\bibrangedash 196}
+  \field{title}{{\"U}ber das gravitationsfeld eines massenpunktes nach der
+  einsteinschen theorie}
+  \field{volume}{1}
+  \field{journaltitle}{Sitzungsberichte der K{\"o}niglich Preu{\ss}ischen
+  Akademie der Wissenschaften (Berlin), 1916, Seite 189-196}
+  \field{year}{1916}
+\endentry
+
+\entry{shakura1976theory}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Shakura}{S.}%
+     {NI}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sunyaev}{S.}%
+     {RA}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SNSR1}
+  \strng{fullhash}{SNSR1}
+  \field{labelyear}{1976}
+  \field{sortinit}{S}
+  \field{pages}{613\bibrangedash 632}
+  \field{title}{A theory of the instability of disk accretion on to black holes
+  and the variability of binary X-ray sources, galactic nuclei and quasars}
+  \field{volume}{175}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{1976}
+\endentry
+
+\entry{shakura1988theory}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Shakura}{S.}%
+     {NI}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sunyaev}{S.}%
+     {RA}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SNSR1}
+  \strng{fullhash}{SNSR1}
+  \field{labelyear}{1988}
+  \field{sortinit}{S}
+  \field{pages}{135\bibrangedash 140}
+  \field{title}{The theory of an accretion disk/neutron star boundary layer}
+  \field{volume}{8}
+  \field{journaltitle}{Advances in Space Research}
+  \field{year}{1988}
+\endentry
+
+\entry{shaposhnikov2002bursting}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Shaposhnikov}{S.}%
+     {N}{N}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Titarchuk}{T.}%
+     {L}{L}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SNTL1}
+  \strng{fullhash}{SNTL1}
+  \field{labelyear}{2002}
+  \field{sortinit}{S}
+  \field{booktitle}{34th COSPAR Scientific Assembly}
+  \field{title}{The bursting behavior of 4U 1728-34: parameters of neutron star
+  and geometry of NS-disk system.}
+  \field{volume}{34}
+  \field{year}{2002}
+\endentry
+
+\entry{strohmayer2003new}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Strohmayer}{S.}%
+     {Tod}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bildsten}{B.}%
+     {Lars}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{STBL1}
+  \strng{fullhash}{STBL1}
+  \field{labelyear}{2003}
+  \field{sortinit}{S}
+  \field{title}{New views of thermonuclear bursts}
+  \field{journaltitle}{arXiv preprint astro-ph/0301544}
+  \field{year}{2003}
+\endentry
+
+\entry{sunyaev2000fourier}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Sunyaev}{S.}%
+     {R}{R}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Revnivtsev}{R.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SRRM1}
+  \strng{fullhash}{SRRM1}
+  \field{labelyear}{2000}
+  \field{sortinit}{S}
+  \field{pages}{617\bibrangedash 623}
+  \field{title}{Fourier power spectra at high frequencies: a way to distinguish
+  a neutron star from a black hole}
+  \field{volume}{358}
+  \field{journaltitle}{Astronomy and Astrophysics}
+  \field{year}{2000}
+\endentry
+
+\entry{tagger1999accretion}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Tagger}{T.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pellat}{P.}%
+     {R}{R}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TMPR1}
+  \strng{fullhash}{TMPR1}
+  \field{labelyear}{1999}
+  \field{sortinit}{T}
+  \field{title}{An accretion-ejection instability in magnetized disks}
+  \field{journaltitle}{arXiv preprint astro-ph/9907267}
+  \field{year}{1999}
+\endentry
+
+\entry{tauris2006formation}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Tauris}{T.}%
+     {TM}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van den Heuvel}}{v.}%
+     {EPJ}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TTvE1}
+  \strng{fullhash}{TTvE1}
+  \field{labelyear}{2006}
+  \field{sortinit}{T}
+  \field{pages}{623\bibrangedash 665}
+  \field{title}{Formation and evolution of compact stellar X-ray sources}
+  \field{volume}{39}
+  \field{journaltitle}{Compact stellar X-ray sources}
+  \field{year}{2006}
+\endentry
+
+\entry{uttley2014x}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Uttley}{U.}%
+     {P}{P}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cackett}{C.}%
+     {EM}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fabian}{F.}%
+     {AC}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kara}{K.}%
+     {E}{E}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wilkins}{W.}%
+     {DR}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{UP+1}
+  \strng{fullhash}{UPCEFAKEWD1}
+  \field{labelyear}{2014}
+  \field{sortinit}{U}
+  \field{number}{1}
+  \field{pages}{1\bibrangedash 66}
+  \field{title}{X-ray reverberation around accreting black holes}
+  \field{volume}{22}
+  \field{journaltitle}{The Astronomy and Astrophysics Review}
+  \field{year}{2014}
+\endentry
+
+\entry{uttley2001flux}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Uttley}{U.}%
+     {Philip}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McHardy}{M.}%
+     {Ian~M}{I.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{UPMIM1}
+  \strng{fullhash}{UPMIM1}
+  \field{labelyear}{2001}
+  \field{sortinit}{U}
+  \field{number}{2}
+  \field{pages}{L26\bibrangedash L30}
+  \field{title}{The flux-dependent amplitude of broadband noise variability in
+  X-ray binaries and active galaxies}
+  \field{volume}{323}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{2001}
+\endentry
+
+\entry{watts2012thermonuclear}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Watts}{W.}%
+     {Anna~L}{A.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Annual Reviews}%
+  }
+  \strng{namehash}{WAL1}
+  \strng{fullhash}{WAL1}
+  \field{labelyear}{2012}
+  \field{sortinit}{W}
+  \field{pages}{609\bibrangedash 640}
+  \field{title}{Thermonuclear Burst Oscillations}
+  \field{volume}{50}
+  \field{journaltitle}{Annual Review of Astronomy and Astrophysics}
+  \field{year}{2012}
+\endentry
+
+\entry{watts2009discovery}{article}{}
+  \true{moreauthor}
+  \name{author}{10}{}{%
+    {{}%
+     {Watts}{W.}%
+     {Anna~L}{A.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Altamirano}{A.}%
+     {Diego}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Linares}{L.}%
+     {Manuel}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Patruno}{P.}%
+     {Alessandro}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Casella}{C.}%
+     {Piergiorgio}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cavecchi}{C.}%
+     {Yuri}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Degenaar}{D.}%
+     {Nathalie}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rea}{R.}%
+     {Nanda}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Soleri}{S.}%
+     {Paolo}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van der Klis}}{v.}%
+     {Michiel}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{WAL+1}
+  \strng{fullhash}{WALADLMPACPCYDNRNSPvM+1}
+  \field{labelyear}{2009}
+  \field{sortinit}{W}
+  \field{number}{2}
+  \field{pages}{L174}
+  \field{title}{Discovery of burst oscillations in the intermittent
+  accretion-powered millisecond pulsar HETE J1900. 1-2455}
+  \field{volume}{698}
+  \field{journaltitle}{The Astrophysical Journal Letters}
+  \field{year}{2009}
+\endentry
+
+\entry{wijnands1998millisecond}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wijnands}{W.}%
+     {Rudy}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van der Klis}}{v.}%
+     {Michiel}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Nature Publishing Group}%
+  }
+  \strng{namehash}{WRvM1}
+  \strng{fullhash}{WRvM1}
+  \field{labelyear}{1998}
+  \field{sortinit}{W}
+  \field{number}{6691}
+  \field{pages}{344\bibrangedash 346}
+  \field{title}{A millisecond pulsar in an X-ray binary system}
+  \field{volume}{394}
+  \field{journaltitle}{nature}
+  \field{year}{1998}
+\endentry
+
+\entry{wijnands1999broadband}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wijnands}{W.}%
+     {Rudy}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van der Klis}}{v.}%
+     {Michiel}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{WRvM1}
+  \strng{fullhash}{WRvM1}
+  \field{labelyear}{1999}
+  \field{sortinit}{W}
+  \field{number}{2}
+  \field{pages}{939}
+  \field{title}{The broadband power spectra of X-ray binaries}
+  \field{volume}{514}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{1999}
+\endentry
+
+\entry{wilms2000absorption}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Wilms}{W.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Allen}{A.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McCray}{M.}%
+     {R}{R}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{WJAAMR1}
+  \strng{fullhash}{WJAAMR1}
+  \field{labelyear}{2000}
+  \field{sortinit}{W}
+  \field{number}{2}
+  \field{pages}{914}
+  \field{title}{On the absorption of X-rays in the interstellar medium}
+  \field{volume}{542}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2000}
+\endentry
+
+\entry{zhang1993laboratory}{inproceedings}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Zhang}{Z.}%
+     {William~W}{W.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Giles}{G.}%
+     {Alan~B}{A.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jahoda}{J.}%
+     {Keith}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Soong}{S.}%
+     {Yang}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Swank}{S.}%
+     {Jean~H}{J.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Morgan}{M.}%
+     {Edward~H}{E.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{2}{%
+    {International Society for Optics}%
+    {Photonics}%
+  }
+  \strng{namehash}{ZWW+1}
+  \strng{fullhash}{ZWWGABJKSYSJHMEH1}
+  \field{labelyear}{1993}
+  \field{sortinit}{Z}
+  \field{booktitle}{SPIE's 1993 International Symposium on Optics, Imaging, and
+  Instrumentation}
+  \field{pages}{324\bibrangedash 333}
+  \field{title}{Laboratory performance of the proportional counter array
+  experiment for the X-ray Timing Explorer}
+  \field{year}{1993}
+\endentry
+
+\entry{marieke}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van Doesburgh}}{v.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{vM1}
+  \strng{fullhash}{vM1}
+  \field{labelyear}{2014}
+  \field{sortinit}{V}
+  \field{title}{Lense-Thirring Precession Around Neutron Stars With Known Spin}
+  \list{institution}{1}{%
+    {University of Amsterdam}%
+  }
+  \field{type}{MSc thesis}
+  \field{year}{2014}
+\endentry
+
+\entry{van2005relations}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {{van Straaten}}{v.}%
+     {Steve}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{van der Klis}}{v.}%
+     {Michiel}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wijnands}{W.}%
+     {Rudy}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOP Publishing}%
+  }
+  \strng{namehash}{vSvMWR1}
+  \strng{fullhash}{vSvMWR1}
+  \field{labelyear}{2005}
+  \field{sortinit}{V}
+  \field{number}{1}
+  \field{pages}{455}
+  \field{title}{Relations between timing features and colors in accreting
+  millisecond pulsars}
+  \field{volume}{619}
+  \field{journaltitle}{The Astrophysical Journal}
+  \field{year}{2005}
+\endentry
+
+\entry{van2016probing}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {{van den Eijnden}}{v.}%
+     {Jakob}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ingram}{I.}%
+     {Adam}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Uttley}{U.}%
+     {Phil}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{vJIAUP1}
+  \strng{fullhash}{vJIAUP1}
+  \field{labelyear}{2016}
+  \field{sortinit}{V}
+  \field{number}{4}
+  \field{pages}{3655\bibrangedash 3666}
+  \field{title}{Probing the origin of quasi-periodic oscillations: the
+  short-time-scale evolution of phase lags in GRS 1915+ 105}
+  \field{volume}{458}
+  \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+  \field{year}{2016}
+\endentry
+
+\entry{van1994similarities}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van der Klis}}{v.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{vM2}
+  \strng{fullhash}{vM2}
+  \field{labelyear}{1994}
+  \field{sortinit}{V}
+  \field{pages}{511\bibrangedash 519}
+  \field{title}{Similarities in neutron star and black hole accretion}
+  \field{volume}{92}
+  \field{journaltitle}{The Astrophysical Journal Supplement Series}
+  \field{year}{1994}
+\endentry
+
+\entry{klis2000millisecond}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van der Klis}}{v.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Annual Reviews}%
+  }
+  \strng{namehash}{vM2}
+  \strng{fullhash}{vM2}
+  \field{labelyear}{2000}
+  \field{sortinit}{V}
+  \field{number}{1}
+  \field{pages}{717\bibrangedash 760}
+  \field{title}{Millisecond Oscillations in X-Ray Binaries}
+  \field{volume}{38}
+  \field{journaltitle}{Annual Review of Astronomy and Astrophysics}
+  \field{year}{2000}
+\endentry
+
+\entry{van2006rapid}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{van der Klis}}{v.}%
+     {M}{M}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{vM2}
+  \strng{fullhash}{vM2}
+  \field{labelyear}{2006}
+  \field{sortinit}{V}
+  \field{pages}{39\bibrangedash 112}
+  \field{title}{Rapid X-ray variability}
+  \field{volume}{1}
+  \field{journaltitle}{Compact stellar X-ray sources}
+  \field{year}{2006}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
