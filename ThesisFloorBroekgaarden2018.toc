@@ -32,48 +32,62 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.1}Simulating populations of binaries}{7}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Adptive Importance Sampling}{9}{section.2.2}
+\contentsline {section}{\numberline {2.2}Initial binary parameters}{8}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Fiducial method}{9}{section.2.3}
+\contentsline {subsection}{\numberline {2.2.1}Initial mass}{9}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}Exploratory phase}{9}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.2.2}initial mass ratio}{9}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.2}Improve distribution}{9}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.2.3}initial separation}{9}{subsection.2.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.3}Run simulation (step 3) }{9}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.2.4}eccentricity}{9}{subsection.2.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Advanced Adaptive Importance Sampling}{9}{section.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Supernova}{10}{subsection.2.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Other implementations}{9}{section.2.5}
+\contentsline {section}{\numberline {2.3}Adaptive Importance Sampling algorithm}{11}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.6}Population Synthesis}{9}{section.2.6}
+\contentsline {section}{\numberline {2.4}Adptive Importance Sampling}{11}{section.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.7}Fiducial Model}{9}{section.2.7}
+\contentsline {section}{\numberline {2.5}Fiducial method}{11}{section.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.1}SN}{10}{subsection.2.7.1}
+\contentsline {subsection}{\numberline {2.5.1}Exploratory phase}{11}{subsection.2.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.2}mass transfer and stabillity}{10}{subsection.2.7.2}
+\contentsline {subsection}{\numberline {2.5.2}Improve distribution}{11}{subsection.2.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.3}CE treatment}{10}{subsection.2.7.3}
+\contentsline {subsection}{\numberline {2.5.3}Run simulation (step 3) }{11}{subsection.2.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.4}fall back}{10}{subsection.2.7.4}
+\contentsline {section}{\numberline {2.6}Advanced Adaptive Importance Sampling}{11}{section.2.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.5}kicks}{10}{subsection.2.7.5}
+\contentsline {section}{\numberline {2.7}Other implementations}{11}{section.2.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}\spacedlowsmallcaps {Results}}{11}{chapter.3}
+\contentsline {section}{\numberline {2.8}Population Synthesis}{11}{section.2.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Adaptive Importance Sampling Toy Model}{11}{section.3.1}
+\contentsline {section}{\numberline {2.9}Fiducial Model}{11}{section.2.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Binary population Blck hole - Neutron star mergers}{11}{section.3.2}
+\contentsline {subsection}{\numberline {2.9.1}SN}{12}{subsection.2.9.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Exploring Adaptive importance Sampling}{11}{section.3.3}
+\contentsline {subsection}{\numberline {2.9.2}mass transfer and stabillity}{12}{subsection.2.9.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}\spacedlowsmallcaps {Discussion}}{13}{chapter.4}
+\contentsline {subsection}{\numberline {2.9.3}CE treatment}{12}{subsection.2.9.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}\spacedlowsmallcaps {Conclusion}}{15}{chapter.5}
+\contentsline {subsection}{\numberline {2.9.4}fall back}{12}{subsection.2.9.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{\numberline {ii}\spacedlowsmallcaps {Appendix}}{17}{part.2}
+\contentsline {subsection}{\numberline {2.9.5}kicks}{12}{subsection.2.9.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {a}\spacedlowsmallcaps {A Brief Guide to Adaptive Importance Sampling}}{19}{appendix.A}
+\contentsline {chapter}{\numberline {3}\spacedlowsmallcaps {Results}}{13}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {b}\spacedlowsmallcaps {Code}}{21}{appendix.B}
+\contentsline {section}{\numberline {3.1}Adaptive Importance Sampling Toy Model}{13}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Binary population Blck hole - Neutron star mergers}{13}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Exploring Adaptive importance Sampling}{13}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}\spacedlowsmallcaps {Discussion}}{15}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}\spacedlowsmallcaps {Conclusion}}{17}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\numberline {ii}\spacedlowsmallcaps {Appendix}}{19}{part.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {a}\spacedlowsmallcaps {A Brief Guide to Adaptive Importance Sampling}}{21}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {b}\spacedlowsmallcaps {Code}}{23}{appendix.B}

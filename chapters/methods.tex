@@ -56,8 +56,84 @@ guide future sampling of the parameter space.
 	\item  Later simulations of population members are then drawn from this instrumental
 distribution. The information from these simulations can in turn be used to
 further improve the instrumental distribution.
-By doing so, the method minimizes the computatio
+
 \end{enumerate}
+By doing so, the method minimizes the computational time spend on binary systems that don`t evolve to the event of interest, whilst maximizing the computational time spend on binaries of the target distribution. 
+
+
+
+
+\section{Initial binary parameters}
+
+For the exploratory phase and comparison runs we choose $M_1, q, a, e, v_k $ similar to the distributions used in common binary population synthesis models (e.g. Belczynski, Pols)
+
+
+
+\subsection{Initial mass}
+The distribution of the initial primary mass M1 follows a
+power law distribution also known as the initial mass func-
+tion (IMF) (Kroupa 2001):
+
+
+%
+\begin{equation}
+	p(M_{1,i}) = C_M M_{1,i}^{-\alpha} \vspace{0.2cm} \text{for} M_{1,i} \in [M_{1,i,\text{min}}, M_{1,i,\text{max}}] 
+\label{eq:priorIMF}
+\end{equation}
+%
+where $C_M$ is the normalization constant given by
+%
+\begin{equation}
+	C_M = \frac{\alpha + 1}{M_{1,i,\text{max}^{\alpha +1}} - M_{1,i,\text{min}}^{\alpha+1}}.
+\end{equation}
+We choose $\alpha = 2.35$ in agreement with (Salpeter or Kroupa), and $M_1 \in [5, 100] M_{\odot}$ to align with Vigna-Gomez (2017). 
+
+
+
+\subsection{initial mass ratio}
+The mass ratio $q_i$ is suggested from observations to have
+a flat distribution (Mazeh et al., 1992; Goldberg $\&$ Mazeh,
+1994; Tout, 1991), given by
+%
+\begin{equation}
+	p(q) = \frac{1}{q_{\text{max}} - q_{\text{min}}}, \vspace{2cm} \text{for } q \in [q_{\text{min}}, q_{\text{max}}],  
+\end{equation}
+where $[q_{\text{min}}, q_{\text{max}}] = (0, 1]$ by definition of q. Nevertheless, it
+is also suggested that there is some dependency of the mass
+ratio on the period of the system (e.g. Moe $\&$ Di Stefano 2016). But this is beyond the scope of this thesis. 
+
+\subsection{initial separation}
+%The separation $a_i$ is found to be uniform in log, also known
+%as Opik law (Opik ̈1924) and consistent with findings by
+%(Kobulnicky et al. 2014) and (Moe $\&$ Di Stefano 2015). The
+%distribution function is given by
+%
+\begin{equation}
+	p(a_i) = C_a \frac{1}{a} \vspace{2cm} \text{for } a \in [a_{\text{min}}, a_{\text{max}}] 
+\end{equation}
+%
+where $C_a$ is the normalization constant
+%
+\begin{equation}
+C_a = \frac{1}{\log a_{\text{max}} - \log a_{\text{min}}}.	
+\end{equation}
+% 
+We choose $[a_{\text{min}}, a_{\text{max}}]  = [0.1, 1000]$ AU consistent with (Vigna-Gomez 2018).
+
+
+
+\subsection{eccentricity}
+We assume that all of our binaries initially are orbiting in a circular orbit, $e = 0$ consistent with (Alejandro et al) 
+
+\subsection{Supernova}
+We differentiate between three supernova scenarios: core col- lapse supernovae (CCSN), ultra-stripped supernova (USSN) and electron-capture supernova (ECSN). For the CCSN treatment, we use the rapid explosion
+scenario, as presented in Fryer et al. (2012), to determine the compact object remnant mass according to the total and carbon-oxygen (CO) core mass of the progenitor, with
+a maximum allowed NS mass of mNS,max $= 2.0$ M?. In this scenario, the collapse does not allow for accretion onto the proto-NS, and is able to reproduce the proposed mass gap between neutron stars and black holes (Ozel et al. 2010;
+Farr et al. 2011). There is no consensus yet whether the mass gap is due to observational selection effects or if it is intrinsic to the explosion mechanism (Kreidberg et al. 2012; Wyrzykowski et al. 2016). Another explosion scenario comes from USSN (Tauris
+et al. 2013, 2015). A star becomes stripped when it loses its hydrogen envelope during its evolution; if, during later stages, it manages to lose its helium envelope, it becomes ultra-stripped. In COMPAS, any star which engages in a stable case BB mass transfer episode with a NS as an accre- tor, is considered to be ultra-stripped.We define case BB as a mass transfer episode which involves a Helium donor star which has stopped burning helium in the core (naked helium star Hertzprung Gap, HeHG). Ultra-stripped stars are left with an ONeMg core with a thin carbon and helium layer (Tauris et al. 2013). The compact object remnant mass of an USSN is determined in the same way as for CCSN. A single star with 8  mZAMS $/$ M?  10 (binary stars spread the initial mass range) may collapse in an ECSN (Nomoto 1984). We assume the baryonic mass of the de- generate ONeMg core leading to an ECSN is 1.3
+
+
+\section{Adaptive Importance Sampling algorithm}
 
 
 
@@ -73,12 +149,12 @@ By doing so, the method minimizes the computatio
 \multicolumn{1}{|l|}{$\mathbf{x_i}$} & \multicolumn{1}{l|}{initial state of a binary system} \\ \hline
 \multicolumn{1}{|l|}{$\mathbf{x_f}$} & \multicolumn{1}{l|}{final state of a binary system} \\ \hline
 \multicolumn{1}{|l|}{$\mathbf{X_t}$} & \multicolumn{1}{l|}{target subpopulation of binaries of interest} \\ \hline
-\multicolumn{1}{|l|}{$M_1$} & \multicolumn{1}{l|}{} \\ \hline
-\multicolumn{1}{|l|}{$a$} & \multicolumn{1}{l|}{} \\ \hline
-\multicolumn{1}{|l|}{$q$} & \multicolumn{1}{l|}{} \\ \hline
-\multicolumn{1}{|l|}{$e$} & \multicolumn{1}{l|}{} \\ \hline
+\multicolumn{1}{|l|}{$M_1$}  & \multicolumn{1}{l|}{mass of the primary star} \\ \hline
+\multicolumn{1}{|l|}{$a$} & \multicolumn{1}{l|}{initial separation of the binary } \\ \hline
+\multicolumn{1}{|l|}{$q$} & \multicolumn{1}{l|}{initial mass ratio $q = M_2 / M_1 $ of the binary} \\ \hline
+\multicolumn{1}{|l|}{$e$} & \multicolumn{1}{l|}{initial eccentricity} \\ \hline
 \multicolumn{1}{|l|}{$v$} & \multicolumn{1}{l|}{} \\ \hline
-\multicolumn{1}{|l|}{$v_k$} & \multicolumn{1}{l|}{} \\ \hline
+\multicolumn{1}{|l|}{$v_k$} & \multicolumn{1}{l|}{kick velocity amplitude} \\ \hline
 \multicolumn{1}{|l|}{$\theta_k$} & \multicolumn{1}{l|}{} \\ \hline
 \multicolumn{1}{|l|}{$\phi_k$} & \multicolumn{1}{l|}{} \\ \hline
 \end{tabular}
